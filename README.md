@@ -60,7 +60,7 @@ We recommend setting up your blog on an easy-to-use platform like [Medium](https
 
 Don't hesitate to write your first blog post. Keep it simple. Pick a small topic that you're interested in exploring more, or a concept/technique/technology that you recently learned about that you'd like to cement for yourself. Something like [Nested Arrays and Hashes in Ruby](http://www.korenlc.com/nested-arrays-hashes-loops-in-ruby/) or even something a little less technical. 
 
-Soon, we'll deploy a schedule of blog posts. Every day three different students will have a completed blog post due that they will share with the class. You can expect to have one blog post due every two-and-a-half to three weeks (but don't hesitate to blog more frequently than that!)
+Soon, we'll deploy a schedule of blog posts. Every day six different students will have a completed blog post due that they will share with the class. You can expect to have one blog post due every two-and-a-half to three weeks (but don't hesitate to blog more frequently than that!)
 
 In the meantime, for inspiration, and to get excited about blogging, you can check out the [catalogue of Flatiron Student blog posts](https://flatiron-blogger.herokuapp.com/posts) (you'll be prompted to log in with your GitHub account first). 
 
